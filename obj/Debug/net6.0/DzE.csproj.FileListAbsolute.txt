@@ -1,0 +1,15 @@
+C:\Users\ABOBA\source\repos\DzE\DzE\obj\Debug\net6.0\DzE.csproj.AssemblyReference.cache
+C:\Users\ABOBA\source\repos\DzE\DzE\obj\Debug\net6.0\DzE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABOBA\source\repos\DzE\DzE\obj\Debug\net6.0\DzE.AssemblyInfoInputs.cache
+C:\Users\ABOBA\source\repos\DzE\DzE\obj\Debug\net6.0\DzE.AssemblyInfo.cs
+C:\Users\ABOBA\source\repos\DzE\DzE\obj\Debug\net6.0\DzE.csproj.CoreCompileInputs.cache
+C:\Users\ABOBA\source\repos\DzE\DzE\bin\Debug\net6.0\DzE.exe
+C:\Users\ABOBA\source\repos\DzE\DzE\bin\Debug\net6.0\DzE.deps.json
+C:\Users\ABOBA\source\repos\DzE\DzE\bin\Debug\net6.0\DzE.runtimeconfig.json
+C:\Users\ABOBA\source\repos\DzE\DzE\bin\Debug\net6.0\DzE.dll
+C:\Users\ABOBA\source\repos\DzE\DzE\bin\Debug\net6.0\DzE.pdb
+C:\Users\ABOBA\source\repos\DzE\DzE\obj\Debug\net6.0\DzE.dll
+C:\Users\ABOBA\source\repos\DzE\DzE\obj\Debug\net6.0\refint\DzE.dll
+C:\Users\ABOBA\source\repos\DzE\DzE\obj\Debug\net6.0\DzE.pdb
+C:\Users\ABOBA\source\repos\DzE\DzE\obj\Debug\net6.0\DzE.genruntimeconfig.cache
+C:\Users\ABOBA\source\repos\DzE\DzE\obj\Debug\net6.0\ref\DzE.dll
